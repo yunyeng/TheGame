@@ -1,0 +1,17 @@
+{
+  "name": "TheGame",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "moment": "^2.10.6",
+    "mongojs": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "",
+  "main": "server.js",
+  "author": "Yunus YEN"
+}
